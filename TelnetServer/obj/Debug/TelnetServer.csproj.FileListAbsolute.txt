@@ -1,0 +1,13 @@
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\TelnetServer.exe.config
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\TelnetServer.exe
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\TelnetServer.pdb
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\log4net.dll
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\SuperSocket.Common.dll
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\SuperSocket.SocketBase.dll
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\SuperSocket.SocketEngine.dll
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\SuperSocket.Common.xml
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\SuperSocket.SocketBase.xml
+D:\workspace_server\TelnetServer\TelnetServer\bin\Debug\SuperSocket.SocketEngine.xml
+D:\workspace_server\TelnetServer\TelnetServer\obj\Debug\TelnetServer.exe
+D:\workspace_server\TelnetServer\TelnetServer\obj\Debug\TelnetServer.pdb
+D:\workspace_server\TelnetServer\TelnetServer\obj\Debug\TelnetServer.csprojResolveAssemblyReference.cache
